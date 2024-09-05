@@ -18,4 +18,4 @@ blabla
 Paper
 ======
 
-[project paper](file/javaA.MOV)
+blabla

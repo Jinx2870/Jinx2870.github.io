@@ -24,4 +24,4 @@ At that time, I was selected as an excellent group to defend.
 Video Demo
 ======
 
-[video demo](files/javaA.MOV)
+[Check video](https://github.com/Jinx2870/Jinx2870.github.io/blob/main/files/javaA.MOV)

@@ -18,4 +18,4 @@ blabla
 Report (in Chinese)
 ======
 
-[project report](files/crab.pdf)
+[Check report](https://github.com/Jinx2870/Jinx2870.github.io/blob/main/files/crab.pdf)

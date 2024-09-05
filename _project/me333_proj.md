@@ -1,5 +1,5 @@
 ---
-title: "ROS Course project"
+title: "STM32 Project"
 collection: project
 type: "Course Project"
 permalink: /project/me333_project
